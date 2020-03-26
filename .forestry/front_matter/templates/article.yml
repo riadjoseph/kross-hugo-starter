@@ -11,6 +11,10 @@ fields:
 - type: file
   name: image
   label: image
+- name: b2b_/_b2c
+  type: boolean
+  label: B2B / B2C
+  description: Toggle between B2B and B2C
 - type: text
   name: description
   label: description
